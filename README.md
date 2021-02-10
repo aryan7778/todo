@@ -1,5 +1,9 @@
 ## This is a Todo app made by me using React.js
 
+## Screenshot
+![](IMG20200619194701.jpg)
+
+
 
 ## Available Scripts
 
